@@ -7,7 +7,7 @@ In your project folder, create a .envfile with api key: <br>
 `GOOGLE_API_KEY="Your API key"`
 
 ### Step 3 — Create requirements.txt
-In your project folder, create requirements.txt file as below: 
+In your project folder, create requirements.txt file as below: <br>
 `streamlit` <br>
 `google-generativeai` <br> 
 `python-dotenv` <br>
