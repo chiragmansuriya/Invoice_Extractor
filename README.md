@@ -3,14 +3,12 @@
 https://aistudio.google.com/app/apikey and then click on Create API key.
 
 ### Step 2 — Create .env file
-In your project folder, create a .envfile with api key:
-`
-GOOGLE_API_KEY="Your API key"
-`
+In your project folder, create a .envfile with api key: <br>
+`GOOGLE_API_KEY="Your API key"`
+
 ### Step 3 — Create requirements.txt
-In your project folder, create requirements.txt file as below:
-`
-streamlit 
-google-generativeai 
-python-dotenv
+In your project folder, create requirements.txt file as below: 
+`streamlit` <br>
+`google-generativeai` <br> 
+`python-dotenv` <br>
 `
