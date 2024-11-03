@@ -33,6 +33,7 @@ def input_image_details(uploaded_file):
         raise FileNotFoundError("No file uploaded ")
 
 # Initialize our streamlit app
+
 st.set_page_config(page_title="MultiLanguage Invoice Extractor")
 st.header("Gemini Application")
 uploaded_file = st.file_uploader("Choose an image of invoice", type=["jpg", "jpeg", "png"])
@@ -50,6 +51,7 @@ and you will have to answer any questions based on the uploaded invoice image
 '''
 
 # if submit button is clicked
+
 if submit:
     image_data = input_image_details(uploaded_file)
     response = get_gemini_response(input_prompt, image_data, input)
