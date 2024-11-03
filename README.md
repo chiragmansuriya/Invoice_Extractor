@@ -11,11 +11,6 @@ GOOGLE_API_KEY="Your API key"
 In your project folder, create requirements.txt file as below:
 `
 streamlit 
-`
-`
 google-generativeai 
-`
-`
 python-dotenv
-`
 `
