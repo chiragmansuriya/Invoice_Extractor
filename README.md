@@ -16,5 +16,7 @@ In your project folder, create requirements.txt file as below: <br>
 Run the below command in terminal, from your project folder: <br>
 `pip install -r requirements.txt` 
 
+### Step 5- Launch streamlit app
+`streamlit run invoice_extractor.py`
 
 
