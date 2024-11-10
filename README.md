@@ -19,4 +19,6 @@ Run the below command in terminal, from your project folder: <br>
 ### Step 5- Launch streamlit app
 `streamlit run invoice_extractor.py`
 
+### Live Demo
+https://invoiceextractor-blzhtgwvwjn3qdsl8thkkm.streamlit.app/
 
